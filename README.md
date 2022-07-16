@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @baihaki-bit
-- 👀 I’m interested in Technology
-- 🌱 I’m currently learning About life lol
 
 <!---
 baihaki-bit/baihaki-bit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
